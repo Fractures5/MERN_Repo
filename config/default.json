@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+      "mongodb+srv://tdv2188:2MqQcHHRoIXp4cBA@merncluster.j25taep.mongodb.net/?retryWrites=true&w=majority"
+  }
